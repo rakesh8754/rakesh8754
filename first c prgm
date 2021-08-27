@@ -2,5 +2,5 @@
 #include<stdlib.h>
 int main() {
 printf("Welcome to CSD101\nThis is your first CSD101 lab.\n");
-exit(0);
+exit(0)SS
 }
